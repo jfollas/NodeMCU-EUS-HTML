@@ -3,6 +3,8 @@
 A very minimal HTML form that submits to `/update`, suitable for use as 
 the `http_html_backup` within the source code itself.
 
+![Minimal screenshot](screenshot.png)
+
 | File                        | Size    | Purpose                                   |
 |-----------------------------|---------|-------------------------------------------|
 | `enduser_setup.html`        | 989     | Original, nicely formatted HTML           |

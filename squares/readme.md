@@ -2,6 +2,8 @@
 
 A modified version of the html that Robert Foss (robertfoss) originally provided
 
+![Minimal screenshot](screenshot.png)
+
 | File                        | Size    | Purpose                               |
 |-----------------------------|---------|---------------------------------------|
 | `enduser_setup.html`        | 11024   | Original, nicely formatted HTML       |
